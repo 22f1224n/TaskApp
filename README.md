@@ -44,3 +44,4 @@ $ rails server
 * **password** : password
 
 sshへ変更
+SSH通信へpush
